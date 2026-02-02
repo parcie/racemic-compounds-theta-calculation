@@ -1,5 +1,11 @@
 # racemaic-compounds-theta-calculation
-this project is written for calculating the theta angle that defined by our article in racemic compound crystals. it is mostly aimed at crystals whose Z prime value is 1.
+## Authorship and Purpose
+
+This repository is maintained by the authors of the associated study: Weihao Wang (王卫豪), Fangyi Chen (陈方夷), Zhenghong Chen (陈政宏), Yutong Sun (孙雨桐), and Shaodong Zhang (张绍东).
+
+It provides the source code and datasets used to calculate the theta angle defined in our article on racemic compound crystals. The implementation is primarily designed for crystal structures with a Z′ value of 1.
+
+The GitHub username is used solely for repository management and does not necessarily reflect the authors’ real names.
 
 This project uses:
 	•	Python 3.9.0
